@@ -1,0 +1,31 @@
+body{
+    background-color:white;
+}
+.one{
+    background-size: 100px;
+    border: solid 3px white;
+    width:630px;
+    border-radius: 20px;
+    background-color:pink;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    
+}  
+.one:hover{
+    background-color:orange;
+    transition-duration: 500ms;
+}
+img{
+    border-radius: 20px;
+    margin-left: 20px;
+
+}
+.ole{
+    margin-left:100px ;
+}
+h1{
+    text-align: center;
+    font-family: cursive;
+    font-size: 30px;
+    font-weight: bold;
+}
